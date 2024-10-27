@@ -67,7 +67,7 @@ Pour installer Neter, suivez ces étapes :
 1. Clonez le dépôt :
 
    ```bash
-   git clone <URL_DU_REPOSITORY>
+   git clone https://github.com/Moussakado/Neter.git
    cd Neter
    ```
 
