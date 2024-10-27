@@ -1,4 +1,4 @@
-# <span style="display: inline-block;">Neter</span> <img src="assets/logo_classique.png" alt="logo_classique" style="width: 50px; vertical-align: middle;"/>
+# Neter
 
 ![layout1_light](assets/layout1_light.png)
 
